@@ -23,9 +23,8 @@ Fungsi ini digunakan untuk menambahkan data mahasiswa ke dalam list mahasiswa. D
 Setelah menambahkan data, fungsi ini akan mencetak pesan konfirmasi.
 
 Fungsi tampilkan():
+(![Screenshot 2024-12-03 215314](https://github.com/user-attachments/assets/ca78285b-7bfc-42ca-8598-f877b68880e0)
 
-![image](![Screenshot 2024-12-03 215314](https://github.com/user-attachments/assets/ca78285b-7bfc-42ca-8598-f877b68880e0)
-)
 
 
 Fungsi ini menampilkan semua data mahasiswa dalam format tabel.
